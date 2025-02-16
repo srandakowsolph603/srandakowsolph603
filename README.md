@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm srandakowsolph603
 
-<!--
-**srandakowsolph603/srandakowsolph603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏑 🎾 Obsessed with cloud computing 🏑 🎾
 
-Here are some ideas to get you started:
+## About Me
+🥊 🏏 🏄 A coder in open source 🥊 🏏 🏄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎬 💡 🛶 🎰 Exploring the world of databases 🎬 💡 🛶 🎰
+
+### Fun Facts
+🏒 🎹 🏄 Always learning about algorithms 🏒 🎹 🏄
+
+---
+🏏 🛶 🎯 🏓 🎾 Thanks for visiting my profile! 🚵 🎳 🎧 🚴 🚴
